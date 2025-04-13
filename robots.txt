@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ciclista-society.github.io/ciclista_website/sitemap.xml
