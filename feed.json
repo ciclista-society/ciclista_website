@@ -12,9 +12,9 @@
         {
             "id": "https://www.ciclista.de/test-site/",
             "url": "https://www.ciclista.de/test-site/",
-            "title": "test site",
-            "summary": "i am moving my website to a self-hosted server in my hallway - a raspberry pi 1B.",
-            "content_html": "<p>i am moving my website to a self-hosted server in my hallway -  a raspberry pi 1B.</p>",
+            "title": "new website host",
+            "summary": "i am moving my website to a github repository with my good old custom domain www.ciclista.de. crazy stuff for a non-IT person. besides, i&hellip;",
+            "content_html": "<p>i am moving my website to a github repository with my good old custom domain <a href=\"http://www.ciclista.de\">www.ciclista.de</a>. crazy stuff for a non-IT person. besides, i am also changing email servers and dns registrar. all because hosteurope was bought by an american company that decided to move email services to MS365.</p>",
             "image": "https://www.ciclista.de/media/posts/47/DSCF0014.jpg",
             "author": {
                 "name": "homework assignment"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-04-05T09:35:32+02:00",
-            "date_modified": "2025-04-05T11:45:35+02:00"
+            "date_modified": "2025-04-20T21:16:09+02:00"
         },
         {
             "id": "https://www.ciclista.de/long-exposure/",
