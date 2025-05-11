@@ -3,14 +3,14 @@
     <title>ciclista.de</title>
     <link href="https://www.ciclista.de/feed.xml" rel="self" />
     <link href="https://www.ciclista.de" />
-    <updated>2025-05-11T09:39:21+02:00</updated>
+    <updated>2025-05-11T09:44:56+02:00</updated>
     <author>
         <name>homework assignment</name>
     </author>
     <id>https://www.ciclista.de</id>
 
     <entry>
-        <title>my big digital move</title>
+        <title>the big migration</title>
         <author>
             <name>homework assignment</name>
         </author>
@@ -34,6 +34,9 @@
 <p>- messenger: <a href="http://www.signal">www.signal</a>.org (free, encrypted and all data is local)</p>
 <p>- website host: <a href="http://www.github.com">www.github.com</a> (i know it is ms but since a website is public thing i thinks this is okay and it is free with an ssl-certificate)</p>
 <p>you can see my points of contact in the about section.</p>
+<p>I do not want to educate others but if you are interested in making your digital life a bit more encrypted, safe and private you might want to check this website:</p>
+<p><a href="https://european-alternatives.eu/">https://european-alternatives.eu/</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
