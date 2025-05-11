@@ -12,9 +12,9 @@
         {
             "id": "https://www.ciclista.de/test-site/",
             "url": "https://www.ciclista.de/test-site/",
-            "title": "new website host",
-            "summary": "i am moving my website to a github repository with my good old custom domain www.ciclista.de. crazy stuff for a non-IT person. besides, i&hellip;",
-            "content_html": "<p>i am moving my website to a github repository with my good old custom domain <a href=\"http://www.ciclista.de\">www.ciclista.de</a>. crazy stuff for a non-IT person. besides, i am also changing email servers and dns registrar. all because hosteurope was bought by an american company that decided to move email services to MS365.</p>",
+            "title": "my big digital move",
+            "summary": "after my previous provider hosteurope (what an ironical name) was sold to the american company go-daddy and sequently announced that they would change all&hellip;",
+            "content_html": "<p>after my previous provider hosteurope (what an ironical name) was sold to the american company go-daddy and sequently announced that they would change all services to microsoft365 i decided that it was time to make a move. to make it short: it is a lot of very confusing work for someone without it / admin knowledge but once all works it is silently rewarding to know that things are in a better place now.</p>\n<p>- dns-registration: <a href=\"http://www.inwx.de\">www.inwx.de</a> (decent prices, good service, located in berlin)</p>\n<p>- email service: <a href=\"http://www.tuta.com\">www.tuta.com</a> (costly if you need custom domains with several users but the most secure option of all, located in germany)</p>\n<p>- messenger: <a href=\"http://www.signal\">www.signal</a>.org (free, encrypted and all data is local)</p>\n<p>- website host: <a href=\"http://www.github.com\">www.github.com</a> (i know it is ms but since a website is public thing i thinks this is okay and it is free with an ssl-certificate)</p>\n<p>you can see my points of contact in the about section.</p>",
             "image": "https://www.ciclista.de/media/posts/47/DSCF0014.jpg",
             "author": {
                 "name": "homework assignment"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-04-05T09:35:32+02:00",
-            "date_modified": "2025-04-20T21:16:09+02:00"
+            "date_modified": "2025-05-11T09:39:21+02:00"
         },
         {
             "id": "https://www.ciclista.de/long-exposure/",

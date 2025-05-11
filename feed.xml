@@ -3,14 +3,14 @@
     <title>ciclista.de</title>
     <link href="https://www.ciclista.de/feed.xml" rel="self" />
     <link href="https://www.ciclista.de" />
-    <updated>2025-04-20T21:16:09+02:00</updated>
+    <updated>2025-05-11T09:39:21+02:00</updated>
     <author>
         <name>homework assignment</name>
     </author>
     <id>https://www.ciclista.de</id>
 
     <entry>
-        <title>new website host</title>
+        <title>my big digital move</title>
         <author>
             <name>homework assignment</name>
         </author>
@@ -22,13 +22,18 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.ciclista.de/media/posts/47/DSCF0014.jpg" alt="" />
-                    i am moving my website to a github repository with my good old custom domain www.ciclista.de. crazy stuff for a non-IT person. besides, i&hellip;
+                    after my previous provider hosteurope (what an ironical name) was sold to the american company go-daddy and sequently announced that they would change all&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.ciclista.de/media/posts/47/DSCF0014.jpg" class="type:primaryImage" alt="" /></p>
-                <p>i am moving my website to a github repository with my good old custom domain <a href="http://www.ciclista.de">www.ciclista.de</a>. crazy stuff for a non-IT person. besides, i am also changing email servers and dns registrar. all because hosteurope was bought by an american company that decided to move email services to MS365.</p>
+                <p>after my previous provider hosteurope (what an ironical name) was sold to the american company go-daddy and sequently announced that they would change all services to microsoft365 i decided that it was time to make a move. to make it short: it is a lot of very confusing work for someone without it / admin knowledge but once all works it is silently rewarding to know that things are in a better place now.</p>
+<p>- dns-registration: <a href="http://www.inwx.de">www.inwx.de</a> (decent prices, good service, located in berlin)</p>
+<p>- email service: <a href="http://www.tuta.com">www.tuta.com</a> (costly if you need custom domains with several users but the most secure option of all, located in germany)</p>
+<p>- messenger: <a href="http://www.signal">www.signal</a>.org (free, encrypted and all data is local)</p>
+<p>- website host: <a href="http://www.github.com">www.github.com</a> (i know it is ms but since a website is public thing i thinks this is okay and it is free with an ssl-certificate)</p>
+<p>you can see my points of contact in the about section.</p>
             ]]>
         </content>
     </entry>
