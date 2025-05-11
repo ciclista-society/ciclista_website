@@ -3,7 +3,7 @@
     <title>ciclista.de</title>
     <link href="https://www.ciclista.de/feed.xml" rel="self" />
     <link href="https://www.ciclista.de" />
-    <updated>2025-05-11T09:44:56+02:00</updated>
+    <updated>2025-05-11T09:46:19+02:00</updated>
     <author>
         <name>homework assignment</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://www.ciclista.de/test-site/"/>
         <id>https://www.ciclista.de/test-site/</id>
-        <media:content url="https://www.ciclista.de/media/posts/47/DSCF0014.jpg" medium="image" />
+        <media:content url="https://www.ciclista.de/media/posts/47/00006-3715465455.png" medium="image" />
 
         <updated>2025-04-05T09:35:32+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.ciclista.de/media/posts/47/DSCF0014.jpg" alt="" />
+                        <img src="https://www.ciclista.de/media/posts/47/00006-3715465455.png" alt="" />
                     after my previous provider hosteurope (what an ironical name) was sold to the american company go-daddy and sequently announced that they would change all&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.ciclista.de/media/posts/47/DSCF0014.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.ciclista.de/media/posts/47/00006-3715465455.png" class="type:primaryImage" alt="" /></p>
                 <p>after my previous provider hosteurope (what an ironical name) was sold to the american company go-daddy and sequently announced that they would change all services to microsoft365 i decided that it was time to make a move. to make it short: it is a lot of very confusing work for someone without it / admin knowledge but once all works it is silently rewarding to know that things are in a better place now.</p>
 <p>- dns-registration: <a href="http://www.inwx.de">www.inwx.de</a> (decent prices, good service, located in berlin)</p>
 <p>- email service: <a href="http://www.tuta.com">www.tuta.com</a> (costly if you need custom domains with several users but the most secure option of all, located in germany)</p>
@@ -36,7 +36,7 @@
 <p>you can see my points of contact in the about section.</p>
 <p>I do not want to educate others but if you are interested in making your digital life a bit more encrypted, safe and private you might want to check this website:</p>
 <p><a href="https://european-alternatives.eu/">https://european-alternatives.eu/</a></p>
-<p> </p>
+<p>the image in the title was created using stable diffusion.</p>
             ]]>
         </content>
     </entry>
