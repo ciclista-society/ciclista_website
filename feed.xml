@@ -3,12 +3,45 @@
     <title>ciclista.de</title>
     <link href="https://www.ciclista.de/feed.xml" rel="self" />
     <link href="https://www.ciclista.de" />
-    <updated>2025-07-11T20:19:44+02:00</updated>
+    <updated>2025-09-16T22:00:16+02:00</updated>
     <author>
         <name>homework assignment</name>
     </author>
     <id>https://www.ciclista.de</id>
 
+    <entry>
+        <title>wilder kaiser</title>
+        <author>
+            <name>homework assignment</name>
+        </author>
+        <link href="https://www.ciclista.de/wilder-kaiser/"/>
+        <id>https://www.ciclista.de/wilder-kaiser/</id>
+        <media:content url="https://www.ciclista.de/media/posts/49/DSCF3666_01.jpg" medium="image" />
+
+        <updated>2025-09-16T22:00:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.ciclista.de/media/posts/49/DSCF3666_01.jpg" alt="" />
+                    time for summer vacation - this time in the mountains after a long break. time for classy black and white images with a focus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.ciclista.de/media/posts/49/DSCF3666_01.jpg" class="type:primaryImage" alt="" /></p>
+                <p>time for summer vacation - this time in the mountains after a long break.</p>
+<p>time for classy black and white images with a focus on texture and light.</p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF2787.jpg" data-size="1280x1920"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF2787-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF3114.jpg" data-size="1280x1920"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF3114-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF2504.jpg" data-size="1920x1280"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF2504-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF2774.jpg" data-size="1920x1280"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF2774-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF2864.jpg" data-size="1920x960"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF2864-thumbnail.jpg" alt="" width="768" height="384"></a></figure>
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF3036.jpg" data-size="1920x1280"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF3036-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/49/gallery/DSCF2845.jpg" data-size="1920x1279"><img loading="lazy" src="https://www.ciclista.de/media/posts/49/gallery/DSCF2845-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>dunnottar castle</title>
         <author>
@@ -294,41 +327,6 @@
 <figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/39/gallery/DSCF7518.jpg" data-size="5047x3371"><img loading="lazy" src="https://www.ciclista.de/media/posts/39/gallery/DSCF7518-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
 <figure class="gallery__item"><a href="https://www.ciclista.de/media/posts/39/gallery/P1060378.jpg" data-size="2785x1886"><img loading="lazy" src="https://www.ciclista.de/media/posts/39/gallery/P1060378-thumbnail.jpg" alt="" width="768" height="520"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>kuala lumpur</title>
-        <author>
-            <name>homework assignment</name>
-        </author>
-        <link href="https://www.ciclista.de/kuala-lumpur/"/>
-        <id>https://www.ciclista.de/kuala-lumpur/</id>
-        <media:content url="https://www.ciclista.de/media/posts/38/IMG_1047_02-2.jpg" medium="image" />
-
-        <updated>2024-10-21T20:24:10+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.ciclista.de/media/posts/38/IMG_1047_02-2.jpg" alt="" />
-                    i recently visited kuala lumpur, malaysia. a beautiful city in a special climate. you can also watch an impression video on my youtube channel:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.ciclista.de/media/posts/38/IMG_1047_02-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>i recently visited kuala lumpur, malaysia. a beautiful city in a special climate. you can also watch an impression video on my youtube channel: <a href="https://youtu.be/EiyCzugRcXY" target="_blank" rel="noopener noreferrer">youtube</a></p>
-<p>the city center is very scenic as hopefully the following pictures will show.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/IMG_1047_02.jpg" alt="" width="3024" height="4032" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/IMG_1047_02-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1047_02-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1047_02-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1047_02-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/P1110667.jpg" alt="" width="2465" height="3680" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/P1110667-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/P1110667-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/P1110667-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/P1110667-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/P1110924.jpg" alt="" width="2806" height="4190" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/P1110924-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/P1110924-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/P1110924-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/P1110924-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/P1110900.jpg" alt="" width="3081" height="2063" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/P1110900-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/P1110900-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/P1110900-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/P1110900-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/IMG_1014_01.jpg" alt="" width="3932" height="2949" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/IMG_1014_01-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1014_01-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1014_01-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1014_01-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/IMG_0994_01.jpg" alt="" width="3949" height="2962" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/IMG_0994_01-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/IMG_0994_01-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/IMG_0994_01-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/IMG_0994_01-lg.jpg 1024w"></figure>
-<p>but not only the center is interesting, also other motives can be found on every corner.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/IMG_1074_01.jpg" alt="" width="3994" height="2996" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/IMG_1074_01-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1074_01-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1074_01-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/IMG_1074_01-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/IMG_0987-3.jpg" alt="" width="3758" height="2818" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/IMG_0987-3-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/IMG_0987-3-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/IMG_0987-3-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/IMG_0987-3-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/IMG_2089_01.jpg" alt="" width="4004" height="3003" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/IMG_2089_01-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/IMG_2089_01-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/IMG_2089_01-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/IMG_2089_01-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.ciclista.de/media/posts/38/P1110649.jpg" alt="" width="4201" height="2814" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.ciclista.de/media/posts/38/responsive/P1110649-xs.jpg 300w ,https://www.ciclista.de/media/posts/38/responsive/P1110649-sm.jpg 480w ,https://www.ciclista.de/media/posts/38/responsive/P1110649-md.jpg 768w ,https://www.ciclista.de/media/posts/38/responsive/P1110649-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
